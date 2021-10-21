@@ -52,6 +52,7 @@ body{
     margin: auto 3rem;
     margin-top: 0rem;
     margin-bottom: 2rem;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 #barra-navegacion > img{
@@ -303,7 +304,8 @@ footer{
 }
 
 .content-foo{
-    text-align: center;
+    text-align: center
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .content-foo h4{
